@@ -1,27 +1,32 @@
-# Paula Pereira Muniz
-
-## 👋 Hello dev!
+# 👋 Welcome to my github!
 My name is Paula, I am 26 years old, have a degree in computer science, love technology and is obsessed with knowledge. <br>
 
-I work as a IT support in a company in the field of railway engineering. But after getting to know the universe of data, I found my real passion<br>
-https://media1.giphy.com/media/RGOucZBPmX87NqHaL6/giphy.gif?cid=ecf05e47h8jyfwpu2hg6xhsijgh2oxdnwno8jtgy45uprz92&rid=giphy.gif&ct=g
+I work as a IT support in a company in the field of railway engineering. But after getting to know the universe of data, I found my real passion<br> 
+<p align="center">
+<img alt="Gif" src="https://media2.giphy.com/media/aNqEFrYVnsS52/giphy.gif?cid=ecf05e47ua5a5eng415rbbxducozhap9vsnvqf1i5uf5c2uj&rid=giphy.gif&ct=g" />
+</p>
+I am currently studying data science, and looking to collaborate with other Data Scientists and mobile developers. Why not? I love technology, remember?<br>
 
-I am currently studying data science, and looking to collaborate with other Data Scientists and mobile developers<br>
 
 
+#### Now I'm studying these tools
 
-### Now I'm studying these tools
-
-<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/> <img align="left"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" height="40"/> <img align="left"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40" height="40"/> [<img align="left" alt="Scikit-learn" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" />](https://scikit-learn.org/stable/) <img align="left"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" height="40"/> <img align="left"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original-wordmark.svg" width="40" height="40"/> <img align="left"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/> <img align="left"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="40" height="40"/> <br>
+<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30" height="30"/> <img align="left"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="30" height="30"/> <img align="left"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="30" height="30"/> [<img align="left" alt="Scikit-learn" width="30px"  height="30" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" />](https://scikit-learn.org/stable/) <img align="left"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="30" height="30"/> <img align="left"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original-wordmark.svg" width="30" height="30"/> <img align="left"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30" height="30"/> <img align="left"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="30" height="30"/> <br>
 <br>
-
+Facts about me
+- 💻 I love the contrast between being angry about a problem and being extremely happy to get a solution.
+- 📈 As a curious person, I am constantly learning and Improving my skills.
+- 👩‍💼 I am a communicative person, who likes to interact and share knowledge.
+- 📊 I’m looking to collaborate with other Data Scientists and developers.
+- 👷‍♀️ I'm starting to build my portfolio, so a lot still needs to be updated. Feel at home here!
 
 ![Snake animation](https://github.com/PaulaM96/PaulaM96/blob/output/github-contribution-grid-snake.svg)
 <div>
+  
 <a href="https://github.com/PaulaM96">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PaulaM96&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=PaulaM96&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div> <br>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=PaulaM96&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/></a>
+</div>
 
 I like to participate in collaborative projects, so call me there!
 
