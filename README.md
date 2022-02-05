@@ -19,7 +19,7 @@ Facts about me
 - 👩‍💼 I am a communicative person, who likes to interact and share knowledge.
 - 📊 I’m looking to collaborate with other Data Scientists and developers.
 - 👷‍♀️ I'm starting to build my portfolio, so a lot still needs to be updated. Feel at home here!
-
+- 🖤
 ![Snake animation](https://github.com/PaulaM96/PaulaM96/blob/output/github-contribution-grid-snake.svg)
 <div>
   
