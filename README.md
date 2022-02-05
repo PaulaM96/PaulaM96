@@ -17,9 +17,9 @@ Facts about me
 - 💻 I love the contrast between being angry about a problem and being extremely happy to get a solution.
 - 📈 As a curious person, I am constantly learning and Improving my skills.
 - 👩‍💼 I am a communicative person, who likes to interact and share knowledge.
+- 🖤 Fun fact: Before entering the field of technology, I wanted to study psychology
 - 📊 I’m looking to collaborate with other Data Scientists and developers.
 - 👷‍♀️ I'm starting to build my portfolio, so a lot still needs to be updated. Feel at home here!
-- 🖤
 <br>
 
 ![Snake animation](https://github.com/PaulaM96/PaulaM96/blob/output/github-contribution-grid-snake.svg)
