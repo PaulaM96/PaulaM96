@@ -22,7 +22,7 @@ Facts about me
 - 👷‍♀️ I'm starting to build my portfolio, so a lot still needs to be updated. Feel at home here!
 <br>
 
-![Snake animation](https://github.com/PaulaM96/PaulaM96/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/PaulaM96/blob/output/github-contribution-grid-snake.svg)
 <br>
 <div>
  <b> ✅ Estatísticas</b>: <br>
