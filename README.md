@@ -1,5 +1,5 @@
 # 👋 Welcome to my github!
-My name is Paula, I am 27 years old, have a degree in computer science, love technology and is obsessed with knowledge. <br>
+My name is Paula, I am 28 years old, have a degree in computer science, love technology and is obsessed with knowledge. <br>
 
 I work as a IT support in a company in the field of railway engineering. But after getting to know the universe of data, I found my real passion<br> 
 <p align="center">
