@@ -21,7 +21,7 @@ Facts about me
 - 📊 I’m looking to collaborate with other Data Scientists and developers.
 - 👷‍♀️ I'm starting to build my portfolio, so a lot still needs to be updated. Feel at home here!
 <br>
-![snake gif](https://github.com/PaulaM96/PaulaM96/blob/output/github-contribution-grid-snake.gif)
+
 <br>
 <div>
  <b> ✅ Estatísticas</b>: <br>
