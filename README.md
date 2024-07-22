@@ -1,11 +1,11 @@
 # 👋 Welcome to my github!
 My name is Paula, I am 28 years old, have a degree in computer science, love technology and is obsessed with knowledge. <br>
 
-I work as a IT support in a company in the field of railway engineering. But after getting to know the universe of data, I found my real passion<br> 
+I work as a IT support in a company in the field of railway engineering. But after getting to know the universe of data and automation, I found my real passion<br> 
 <p align="center">
 <img alt="Gif" src="https://media2.giphy.com/media/aNqEFrYVnsS52/giphy.gif?cid=ecf05e47ua5a5eng415rbbxducozhap9vsnvqf1i5uf5c2uj&rid=giphy.gif&ct=g" />
 </p>
-I am currently studying data science, and looking to collaborate with other Data Scientists and mobile developers. Why not? I love technology, remember?<br>
+I am currently studying data science/ rpa, and looking to collaborate with other Data Scientists and, RPA professionals, Web and mobile developers. Why not? I love technology, remember?<br>
 
 
 
